@@ -1,7 +1,5 @@
  // Print
 
-console.log("Hello World");
-
 // Varialbes 
 
 // Constants const = , let = 
